@@ -1,5 +1,6 @@
 nginx
 cloudflare/cloudflared:latest
+chishin/nginx-proxy-manager-zh
 whyour/qinglong:latest
 alpine:3.20.0
 #支持私库
