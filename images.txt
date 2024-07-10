@@ -1,4 +1,5 @@
 nginx
+cloudflare/cloudflared:latest
 whyour/qinglong:latest
 alpine:3.20.0
 #支持私库
