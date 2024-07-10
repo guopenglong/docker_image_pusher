@@ -1,5 +1,6 @@
 nginx
 cloudflare/cloudflared:latest
+xiaoyaliu/alist:latest
 chishin/nginx-proxy-manager-zh
 whyour/qinglong:latest
 alpine:3.20.0
