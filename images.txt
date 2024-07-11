@@ -1,6 +1,7 @@
 nginx
 cloudflare/cloudflared:latest
 xiaoyaliu/alist:hostmode
+xhofe/alist-aria2
 chishin/nginx-proxy-manager-zh
 whyour/qinglong:latest
 alpine:3.20.0
