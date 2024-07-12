@@ -3,6 +3,7 @@ cloudflare/cloudflared:latest
 xiaoyaliu/alist:hostmode
 xhofe/alist-aria2
 chishin/nginx-proxy-manager-zh
+xiaoyaliu/alist:hostmode
 whyour/qinglong:latest
 alpine:3.20.0
 #支持私库
