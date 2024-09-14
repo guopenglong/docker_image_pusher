@@ -1,4 +1,5 @@
 nginx
+finab/bark-server
 cloudflare/cloudflared:latest
 xiaoyaliu/alist:hostmode
 xhofe/alist-aria2
