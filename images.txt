@@ -1,4 +1,5 @@
 nginx
+python:3.8-slim
 finab/bark-server
 cloudflare/cloudflared:latest
 xiaoyaliu/alist:hostmode
