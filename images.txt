@@ -1,4 +1,5 @@
 nginx
+6053537/portainer-ce
 python:3.8-slim
 finab/bark-server
 cloudflare/cloudflared:latest
