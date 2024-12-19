@@ -1,17 +1,3 @@
-nginx
-6053537/portainer-ce
-python:3.8-slim
-finab/bark-server
-cloudflare/cloudflared:latest
-xiaoyaliu/alist:hostmode
-xhofe/alist-aria2
-chishin/nginx-proxy-manager-zh
-xiaoyaliu/alist:hostmode
-whyour/qinglong:latest
-alpine:3.20.0
 homeassistant/home-assistant:latest
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 homeassistant/home-assistant
